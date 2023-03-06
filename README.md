@@ -1,1 +1,1 @@
-Some of my certificates of trainings and courses at Coursera and Udemy. The best known training from Andrew NG - Maching Learning with a lot of math and calculations in Octave (the original one offered by Standford University) I done till Week 9 (Anomaly Detection) and I still have desire to finish. Currently I am enrolled to Math for Data Science, even though I have already done some short other courses dedicated to Linear Algebra, Matrices and vectors, Calculus, etc. 
+Some of my certificates of trainings and courses at Coursera and Udemy. 
